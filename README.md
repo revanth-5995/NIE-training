@@ -1,3 +1,5 @@
 # NIE-training
 Welcome to NIE.
 I LOVE MYSORE
+BRANCH COMMIT
+MERGE CONFLICT
