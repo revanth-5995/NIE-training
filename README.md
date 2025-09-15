@@ -1,5 +1,8 @@
 # NIE-training
-Welcome to NIE.
+Welcome to NIE
+
+
 I LOVE MYSORE
-BRANCH COMMIT
+
+
 MERGE CONFLICT
